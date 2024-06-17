@@ -28,14 +28,14 @@ Conducted a research project to classify vulnerable and non-vulnerable C/C++ cod
 •	Identified key security concerns, including data breaches and unauthorized access, and proposed robust access controls, advanced encryption protocols, and proactive threat detection mechanisms to bolster IoT security in BPM.
 •	Synthesized findings to offer recommendations and best practices, contributing valuable insights to organizations and researchers for improving the security of IoT within BPM systems.
 
-![EEG Band Discovery](/assets/IMG-20200617-WA0006.jpg)
-![EEG Band Discovery](/assets/IMG-20200617-WA0007.jpg)
-
 ### Invention : Touchless Handwashing Station | KPR (Bachelors)
 •	Overview: Invented a touchless handwashing station to promote hygiene and prevent the spread of COVID-19.
 •	Design and Functionality: The device allows users to wash their hands without touching any surfaces, thereby reducing the risk of contamination.
 •	Implementation: The invention was created as a practical solution for public places, ensuring safe handwashing practices.
 •	Recognition: The invention received coverage in a Tamil newspaper, highlighting its innovative approach to addressing public health challenges.
+
+![EEG Band Discovery](/assets/IMG-20200617-WA0006.jpg)
+![EEG Band Discovery](/assets/IMG-20200617-WA0007.jpg)
 
 ## WORK EXPERIENCE
 ### Console Operator : 7 eleven, Brisbane, Australia	 				03/2023 - present
