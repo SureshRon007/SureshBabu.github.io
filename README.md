@@ -34,10 +34,10 @@ Conducted a research project to classify vulnerable and non-vulnerable C/C++ cod
 •	Implementation: The invention was created as a practical solution for public places, ensuring safe handwashing practices.
 •	Recognition: The invention received coverage in a Tamil newspaper, highlighting its innovative approach to addressing public health challenges.
 
-![EEG Band Discovery](/assets/IMG-20200617-WA0006.jpg)
-![EEG Band Discovery](/assets/IMG-20200617-WA0007.jpg)
-<img src="/assets/IMG-20200617-WA0006.jpg" alt="EEG Band Discovery" width="300" height="300">
-<img src="/assets/IMG-20200617-WA0007.jpg" alt="EEG Band Discovery" width="300" height="300">
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/IMG-20200617-WA0006.jpg" alt="EEG Band Discovery" width="300" height="300">
+  <img src="/assets/IMG-20200617-WA0007.jpg" alt="EEG Band Discovery" width="300" height="300">
+</div>
 
 
 ## WORK EXPERIENCE
