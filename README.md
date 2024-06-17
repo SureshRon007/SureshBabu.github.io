@@ -36,6 +36,9 @@ Conducted a research project to classify vulnerable and non-vulnerable C/C++ cod
 
 ![EEG Band Discovery](/assets/IMG-20200617-WA0006.jpg)
 ![EEG Band Discovery](/assets/IMG-20200617-WA0007.jpg)
+<img src="/assets/IMG-20200617-WA0006.jpg" alt="EEG Band Discovery" width="300" height="300">
+<img src="/assets/IMG-20200617-WA0007.jpg" alt="EEG Band Discovery" width="300" height="300">
+
 
 ## WORK EXPERIENCE
 ### Console Operator : 7 eleven, Brisbane, Australia	 				03/2023 - present
